@@ -4,4 +4,4 @@ Hello my name is Seyeon!
 
 
 
-<img width="" height="" src="캡스톤/Png/android.png"></img>
+<img width="" height="" src="./Png/19173074.png"></img>
