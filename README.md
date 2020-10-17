@@ -4,4 +4,4 @@ Hello my name is Seyeon!
 
 
 
-<img width="" height="" src="./Png/19173074.png"></img>
+<img width="" height="" src="./png/dog.jpg"></img>
